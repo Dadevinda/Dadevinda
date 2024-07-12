@@ -38,9 +38,9 @@ I am a passionate software developer in srilanka. I love building innovative sol
 
 ## GitHub Stats
 
-| ![Devinda's github stats](https://github-readme-stats.vercel.app/api?username=dadevindaa&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dadevindaa&theme=tokyonight) |
+| ![Devinda's github stats](https://github-readme-stats.vercel.app/api?username=Dadevinda&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dadevinda&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadevinda&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dadevinda&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dadevinda&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Dadevinda&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 
@@ -74,7 +74,7 @@ I am a passionate software developer in srilanka. I love building innovative sol
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dadevinda&layout=compact&hide_border=true)
 
 ## Connect with Me
 
